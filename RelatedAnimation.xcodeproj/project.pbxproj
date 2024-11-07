@@ -14,7 +14,7 @@
 		EE66A97F2CDCF47A0004523F /* Exceptions for "RelatedAnimation" folder in "RelatedAnimation" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Support/Info.plist,
 			);
 			target = EE66A96C2CDCF4780004523F /* RelatedAnimation */;
 		};
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 63R8Y2V63M;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = RelatedAnimation/Info.plist;
+				INFOPLIST_FILE = RelatedAnimation/Support/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -174,7 +174,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 63R8Y2V63M;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = RelatedAnimation/Info.plist;
+				INFOPLIST_FILE = RelatedAnimation/Support/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
